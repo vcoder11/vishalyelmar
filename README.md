@@ -7,16 +7,16 @@ You can click the Preview link to take a look at your changes.
 <!-- https://shields.io/ -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/vishalyelmar/">
-  <img src="https://img.shields.io/badge/linkedin-Abhishek%20Barkade-blue?style=flat-square&logo=linkedin">
+  <img src="https://img.shields.io/badge/linkedin-Vishal%20Yelmar-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:abhibarkade111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhibarkade111%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-vbyelmar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
 
 - 📄 **Bachelor of Computer Engineering** at the **Rajarambapu Institute of Technology, Sangli**
 - 💻 Interested in full stack development,Python programming and Machine Learning
-- 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/vishalyelmar"abhishek-barkade-350b331a1") || [Instagram](https://www.instagram.com/abhi.barkade/ "abhi-barkade") || [Portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
+- 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/vishalyelmar"vishalyelmar") || [Instagram](https://www.instagram.com/vishal_____.01/ "vishal-yelmar") || [Portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
 - 🗺️ Located near Pune, India
 - 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Abhishek%20Nanaso%20Barkade.pdf "CV/Resume")
 - 💻 Visit my [portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
@@ -48,24 +48,20 @@ I love to learn new things, it makes me extremely happy and it should be extreme
 ---
 
 ### 🛠️ Familiar Technologies
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
+![Python](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
 
 ---
-[![@abhibarkade111's Holopin board](https://holopin.me/abhibarkade111)](https://holopin.io/@abhibarkade111)
+[![An image of @vishal01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishal01)](https://holopin.io/@vishal01)
