@@ -48,7 +48,7 @@ I love to learn new things, it makes me extremely happy and it should be extreme
 ---
 
 ### 🛠️ Familiar Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=red)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
