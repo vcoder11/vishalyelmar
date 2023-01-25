@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 **Bachelor of Computer Engineering** at the **Rajarambapu Institute of Technology, Sangli**
 - 💻 Interested in full stack development,Web Development and Machine Learning
-- 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/"vishalyelmar") || [Instagram](https://www.instagram.com/vishal_____.01/ "vishal-yelmar") || [Portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
+- 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/vishalyelmar) || [Instagram](https://www.instagram.com/vishal_____.01/ "vishal-yelmar") || [Portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
 - 🗺️ Pandharpur, India
 - 📝 [CV/Resume]("CV/Resume")
 - 💻 Visit my [portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
