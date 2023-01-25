@@ -15,19 +15,19 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 📄 **Bachelor of Computer Engineering** at the **Rajarambapu Institute of Technology, Sangli**
-- 💻 Interested in full stack development,Python programming and Machine Learning
+- 💻 Interested in full stack development,Web Development and Machine Learning
 - 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/vishalyelmar"vishalyelmar") || [Instagram](https://www.instagram.com/vishal_____.01/ "vishal-yelmar") || [Portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
-- 🗺️ Located near Pune, India
-- 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Abhishek%20Nanaso%20Barkade.pdf "CV/Resume")
-- 💻 Visit my [portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
+- 🗺️ Pandharpur, India
+- 📝 [CV/Resume]("CV/Resume")
+- 💻 Visit my [portfolio](https://vishal-yelmar.web.app/ "Vishal Yelmar")
 
 Passionate about software development, writing code, and making things happen.
 <br>
 I love to learn new things, it makes me extremely happy and it should be extremely challenging, because challenges makes you reach to the next level.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhibarkade111&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
-![Abhi's github stats](https://github-readme-stats.vercel.app/api/?username=abhibarkade111&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyelmar01&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
+![Vishal's github stats](https://github-readme-stats.vercel.app/api/?username=vishalyelmar01&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
 ---
