@@ -1,12 +1,12 @@
 <!---
-abhibarkade111/abhibarkade111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vishalyelmar01/vishalyelmar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hello, I’m [Abhishek Barkade](https://github.com/abhibarkade111)
+# 👋 Hello, I’m [Vishal Yelmar](https://github.com/vishalyelmar01)
 <!-- https://shields.io/ -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/abhishek-barkade-350b331a1/">
+ <a href="https://www.linkedin.com/in/vishalyelmar/">
   <img src="https://img.shields.io/badge/linkedin-Abhishek%20Barkade-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:abhibarkade111@gmail.com">
@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 📄 **Bachelor of Computer Engineering** at the **Rajarambapu Institute of Technology, Sangli**
-- 💻 Interested in full stack development, android development, competative programming
-- 📫 How to reach me: [Email](mailto:abhibarkade111@gmail.com "abhibarkade111@gmail.com") || [LinkedIn](https://www.linkedin.com/in/abhishek-barkade-350b331a1/ "abhishek-barkade-350b331a1") || [Instagram](https://www.instagram.com/abhi.barkade/ "abhi-barkade") || [Portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
+- 💻 Interested in full stack development,Python programming and Machine Learning
+- 📫 How to reach me: [Email](mailto:vbyelmar@gmail.com "vbyelmar@gmail.com") || [LinkedIn](https://www.linkedin.com/in/vishalyelmar"abhishek-barkade-350b331a1") || [Instagram](https://www.instagram.com/abhi.barkade/ "abhi-barkade") || [Portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
 - 🗺️ Located near Pune, India
 - 📝 [CV/Resume](https://github.com/abhibarkade111/abhibarkade111/blob/main/Abhishek%20Nanaso%20Barkade.pdf "CV/Resume")
 - 💻 Visit my [portfolio](https://abhi-barkade.web.app/ "Abhishek Barkade")
