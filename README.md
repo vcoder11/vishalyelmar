@@ -47,7 +47,7 @@ I love to learn new things, it makes me extremely happy and it should be extreme
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
