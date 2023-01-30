@@ -25,7 +25,7 @@ Passionate about software development, writing code, and making things happen.
 <br>
 I love to learn new things, it makes me extremely happy and it should be extremely challenging, because challenges makes you reach to the next level.
 <br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyelmar01&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api/?username=vishalyelmar01&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
@@ -41,13 +41,13 @@ I love to learn new things, it makes me extremely happy and it should be extreme
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
